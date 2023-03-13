@@ -12,8 +12,8 @@
     border-radius: 10px
     }
 
-    .widgetLgTitle {
-        width: 111%;
+    .widgetLgTitle3 {
+        width: 100%;
         border-bottom: 1px solid rgb(209 203 203);
         font-size: 22px;
         font-weight: 600;
@@ -24,7 +24,7 @@
     
     }
       
-      .widgetLgTable{
+      .widgetLgTable3{
         width: 100%;
         border-spacing: 20px;
         margin: 35px 0px 42px 3px;
@@ -82,7 +82,8 @@
     
       }
     
-      .widgetLgName{
+      .widgetLgName3{
+        width: 120%;
         margin-left: -16px
       }
 

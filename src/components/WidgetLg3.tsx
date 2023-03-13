@@ -10,8 +10,8 @@ function WidgetLg3() {
   };
   return (
     <div className="widgetLg3">
-      <h3 className="widgetLgTitle">Trade Log</h3>
-      <table className="widgetLgTable">
+      <h3 className="widgetLgTitle3">Trade Log</h3>
+      <table className="widgetLgTable3">
         <tr className="widgetLgTr">
           <th className="widgetLgTh">Security</th>
           <th className="widgetLgTh">Board</th>
@@ -24,7 +24,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Paddy Rice (SPRL)</span>
+            <span className="widgetLgName3">Paddy Rice (SPRL)</span>
           </td>
           <td className="widgetLgDate">X-Traded</td>
           <td className="widgetLgAmount">Sell</td>
@@ -37,7 +37,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Soya Beans (SSBS)</span>
+            <span className="widgetLgName3">Soya Beans (SSBS)</span>
           </td>
           <td className="widgetLgDate">X-Traded</td>
           <td className="widgetLgAmount">Sell</td>
@@ -50,7 +50,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Maize (SMAZ)</span>
+            <span className="widgetLgName3">Maize (SMAZ)</span>
           </td>
           <td className="widgetLgDate">OTC</td>
           <td className="widgetLgAmount">Buy</td>
@@ -63,7 +63,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Sorghum (SSGM)</span>
+            <span className="widgetLgName3">Sorghum (SSGM)</span>
           </td>
           <td className="widgetLgDate">FI</td>
           <td className="widgetLgAmount">Buy</td>
@@ -76,7 +76,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Fair Trade ETC (FETC)</span>
+            <span className="widgetLgName3">Fair Trade ETC (FETC)</span>
           </td>
           <td className="widgetLgDate">FI</td>
           <td className="widgetLgAmount">Buy</td>
@@ -89,7 +89,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Soya Beans (SSBS)</span>
+            <span className="widgetLgName3">Soya Beans (SSBS)</span>
           </td>
           <td className="widgetLgDate">X-Traded</td>
           <td className="widgetLgAmount">Sell</td>
@@ -102,7 +102,7 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Soya Beans (SSBS)</span>
+            <span className="widgetLgName3">Soya Beans (SSBS)</span>
           </td>
           <td className="widgetLgDate">Derivates</td>
           <td className="widgetLgAmount">Sell</td>
