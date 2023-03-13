@@ -1,0 +1,17 @@
+*{
+  box-sizing:border-box;
+}
+html{
+  background-color: rgb(227, 228, 230);
+}
+
+.container{
+  display: flex;
+  margin-top: 10px;
+}
+
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}

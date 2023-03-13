@@ -1,0 +1,49 @@
+ .featured4 {
+    width: 100%;
+    height: 20px;
+     overflow: hidden;
+     display:flex;
+     position: relative;
+     left: 90px;
+   }
+
+.scrollList{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    bottom: -16px;
+    background-color:#ffffff;
+    font-size:13px;
+   
+}
+
+.scrollList2{
+    position: absolute;
+    margin-right: 30px;
+    position:static;
+    animation: scrollList2 3s linear infinite ;
+    white-space: nowrap; 
+    transform: translateX(100%);   
+}
+
+@keyframes scrollList2 {
+    0% {
+      transform: translateX(70%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+.liveCont{
+    position: fixed;
+    background-color:black;
+    color: white;
+    position: fixed;
+    bottom: -16px;
+     left: 90px;
+     padding: 17px;
+     
+}

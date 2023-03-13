@@ -1,0 +1,47 @@
+.featured3{
+position: fixed;
+z-index: 1;
+}
+
+.featlist{
+    list-style: none;
+    position: relative;
+    bottom: -310px;
+    left: 90px;
+    display: flex;
+    flex-direction: row;
+    width:392%;
+    padding: 30px;
+    background-color: rgb(227, 228, 230);
+    position: relative;
+    margin-bottom: 0px;
+    left:115px;
+}
+.featlist:hover{
+    color: black; 
+}
+
+.featlist2{
+    margin-right: 30px;
+    color:rgb(114, 111, 111);
+    cursor: pointer;
+}
+.featlist2:hover{
+    color: black;
+}
+
+.featlist2:active{
+    color:red;
+    text-decoration:underline;
+    margin-bottom:18px;
+}
+.libtn{
+    margin-left: 5px;
+    border-radius:70px;
+    border:none;
+    color:rgb(114, 111, 111);
+}
+
+.libtn:hover{
+    color: black;
+}
