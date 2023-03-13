@@ -5,9 +5,7 @@ import React from 'react';
 
 
 function WidgetLg3() {
-  const Button = ({ type }) => {
-    return <button className={"widgetLgButton " + type}>{type}</button>;
-  };
+  
   return (
     <div className="widgetLg3">
       <h3 className="widgetLgTitle3">Trade Log</h3>
