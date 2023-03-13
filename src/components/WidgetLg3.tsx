@@ -24,93 +24,93 @@ function WidgetLg3() {
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Paddy Rice (SPRL)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">X-Traded</td>
+          <td className="widgetLgAmount">Sell</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Soya Beans (SSBS)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">X-Traded</td>
+          <td className="widgetLgAmount">Sell</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">86</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Maize (SMAZ)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">OTC</td>
+          <td className="widgetLgAmount">Buy</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Sorghum (SSGM)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">FI</td>
+          <td className="widgetLgAmount">Buy</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Fair Trade ETC (FETC)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">FI</td>
+          <td className="widgetLgAmount">Buy</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Soya Beans (SSBS)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">X-Traded</td>
+          <td className="widgetLgAmount">Sell</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
         <tr className="widgetLgTr">
           <td className="widgetLgUser">
-            <span className="widgetLgName">Federico Kereki</span>
+            <span className="widgetLgName">Soya Beans (SSBS)</span>
           </td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
-          <td className="widgetLgAmount">6,471.39</td>
-          <td className="widgetLgDate">267</td>
+          <td className="widgetLgDate">Derivates</td>
+          <td className="widgetLgAmount">Sell</td>
+          <td className="widgetLgDate">1795.65</td>
+          <td className="widgetLgAmount">2003</td>
+          <td className="widgetLgDate">17 Oct 2020</td>
           <td className="widgetLgStatus">
-            <Button type="Sell" />
+            07:38
           </td>
         </tr>
       </table>

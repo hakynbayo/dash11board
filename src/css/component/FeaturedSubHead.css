@@ -15,7 +15,7 @@ z-index: 1;
     background-color: rgb(227, 228, 230);
     position: relative;
     margin-bottom: 0px;
-    left:115px;
+    left:92px;
 }
 .featlist:hover{
     color: black; 
@@ -43,5 +43,6 @@ z-index: 1;
 }
 
 .libtn:hover{
-    color: black;
+    background-color: black;
+    color: white;
 }

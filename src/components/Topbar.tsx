@@ -13,11 +13,11 @@ function topbar() {
           <h2 className='sub'>Market</h2>
           <p className='sub2'>Lorem ipsum dolor sit amet consectetur adipisicing</p>
 
-          <div className='featuredButton'>
+          <div className='featuredButto'>
             <button className='pagebtn'> Page Settings <TuneIcon/> </button>
           </div>
 
-          <div className='featuredButton'>
+          <div className='featuredButto'>
             <button className='pagebtn2'> Demo <ExpandMoreIcon/> </button>
           </div>
         </div>
