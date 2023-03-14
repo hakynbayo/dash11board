@@ -86,14 +86,29 @@
     margin-left: -16px
   }
 
+
   @media screen and (max-width: 968px) {
     .widgetLg{
-      width: 128%;
-      font-size:10px;
       display: flex;
-      flex-direction:column;
+      flex-direction: column;
+      font-size: 14px;
+      left: 8%;
+      margin-bottom: 0;
       position: relative;
-      left: 40%;
-      margin-bottom: 0px;
+      width: 76%;
     }
+  
   }
+
+  /* @media screen and (max-width: 1236px) {
+    .widgetLg{
+      display: flex;
+      flex-direction: column;
+      font-size: 14px;
+      left: 8%;
+      margin-bottom: 0;
+      position: relative;
+      width: 76%;
+    }
+  
+  } */

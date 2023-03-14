@@ -125,19 +125,18 @@
         border: none;
     }
 
-    @media screen and (max-width: 968px) {
+    @media screen and (max-width: 986px) {
         .featured{
-            width: 88%;
+            background-color: #e3e4e6;
             display: flex;
-            flex-direction: column;
-            justify-content: center;
-            position: fixed;
-            top:160px;
+            flex-direction: row;
+            left: 71px;
             margin-bottom: 20px;
-            padding-top:20px;
-            left:100px;
+            padding-top: 20px;
+            position: fixed;
+            top: 160px;
+            width: 90%;
             z-index: 80;
-            background-color: rgb(227, 228, 230);
         }
         .featuredItem{
             width: 30%;
@@ -160,16 +159,16 @@
         }
     }
 
-    @media screen and (max-width: 1358px) {
+    @media screen and (max-width: 969px) {
         .featured{
-            width: 100%;
+            width: 90%;
             display: flex;
             flex-direction: row;
             position: fixed;
-            top:160px;
+            top: 160px;
             margin-bottom: 20px;
-            padding-top:20px;
-            left:100px;
+            padding-top: 20px;
+            left: 7%;
             z-index: 80;
             background-color: rgb(227, 228, 230);
         }
@@ -183,5 +182,26 @@
 
         .featuredMoney{
             font-size:16px;
+        }
+
+        .featuredHead{
+            width: 350%;
+            display: flex;
+            flex-direction: column;
+            background-color: rgb(227, 228, 230);
+            position: relative;
+            margin-bottom: 0px;
+            left: 34%;
+        }
+        .pagebtn{
+            width: 15%;
+            position:relative;
+            top:105px;
+            left: 70%;
+
+        }
+        .pagebtn2{
+            width: 12%;
+            margin-left:5px;
         }
     }

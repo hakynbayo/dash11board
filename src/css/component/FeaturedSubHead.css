@@ -46,3 +46,19 @@ z-index: 1;
     background-color: black;
     color: white;
 }
+
+@media screen and (max-width: 968px) {
+    .featlist{
+        list-style: none;
+        position: relative;
+        top: 300px;
+        display: flex;
+        flex-direction: row;
+        width: 392%;
+        padding: 30px;
+        background-color: rgb(227, 228, 230);
+        position: relative;
+        margin-bottom: 0px;
+        left: 70px;
+    }
+}

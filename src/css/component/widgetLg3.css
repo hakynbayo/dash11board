@@ -1,100 +1,99 @@
 .widgetLg3 {
-    width: 100%;
-    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
-    padding: 50px 3px 0px;
-    margin-right: 40px;
-    margin-top: 40px;
-    margin-bottom:20px;
-    background-color: #ffffff;
+  width: 100%;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  padding: 50px 3px 0px;
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  position: relative;
+  left: 120px;
+  border-radius: 10px;
+}
+
+.widgetLgTitle3 {
+  width: 100%;
+  border-bottom: 1px solid rgb(209 203 203);
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+  left: 10px;
+  padding: 8px;
+  margin: -30px 0px;
+}
+
+.widgetLgTable3 {
+  width: 100%;
+  border-spacing: 20px;
+  margin: 35px 0px 42px 3px;
+}
+
+.widgetLgTh {
+  text-align: left;
+  margin-right: 30px;
+  border-bottom: 1px solid rgb(209 203 203);
+  width: 400px;
+}
+
+.widgetLgUser {
+  width: 211%;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  margin-right: 180px;
+  border-bottom: 1px solid rgb(209 203 203);
+  padding: 18px;
+}
+
+.widgetLgImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.widgetLgDate,
+.widgetLgAmount {
+  font-weight: 300;
+  border-bottom: 1px solid rgb(209 203 203);
+}
+
+.widgetLgButton {
+  padding: 5px 7px;
+  border: none;
+  border-radius: 10px;
+  border-bottom: 1px solid rgb(209 203 203);
+}
+
+.widgetLgButton.Buy {
+  background-color: #e5faf2;
+  color: #3bb077;
+  border-bottom: 1px solid rgb(209 203 203);
+}
+.widgetLgButton.Sell {
+  background-color: #fff0f1;
+  color: #d95087;
+  border-bottom: 1px solid rgb(209 203 203);
+}
+
+.widgetLgName3 {
+  width: 120%;
+  margin-left: -16px;
+}
+
+@media screen and (max-width: 968px) {
+  .widgetLg3 {
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+    left: 31%;
+    margin-bottom: 0;
     position: relative;
-    left: 120px;
-    border-radius: 10px
-    }
-
-    .widgetLgTitle3 {
-        width: 100%;
-        border-bottom: 1px solid rgb(209 203 203);
-        font-size: 22px;
-        font-weight: 600;
-        position: relative;
-        left: 10px;
-        padding: 8px;
-        margin: -30px 0px;
-    
-    }
-      
-      .widgetLgTable3{
-        width: 100%;
-        border-spacing: 20px;
-        margin: 35px 0px 42px 3px;
-      }
-      
-      .widgetLgTh{
-        text-align: left;
-        margin-right: 30px;
-        border-bottom: 1px solid rgb(209 203 203);
-        width: 400px;
-      }
-      
-      .widgetLgUser{
-        width: 211%;
-        display: flex;
-        align-items: center;
-        font-weight: 600;
-        margin-right: 180px;
-        border-bottom: 1px solid rgb(209 203 203);
-        padding: 18px;
-      }
-      
-      .widgetLgImg {
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        object-fit: cover;
-        margin-right: 10px;
-      }
-      
-      .widgetLgDate,.widgetLgAmount{
-        font-weight: 300;
-        border-bottom: 1px solid rgb(209 203 203);
-    
-      }
-      
-      .widgetLgButton {
-        padding: 5px 7px;
-        border: none;
-        border-radius: 10px;    
-        border-bottom: 1px solid rgb(209 203 203);
-    
-      }
-      
-      .widgetLgButton.Buy{
-          background-color: #e5faf2;
-          color: #3bb077;
-          border-bottom: 1px solid rgb(209 203 203);
-    
-      }
-      .widgetLgButton.Sell{
-          background-color: #fff0f1;
-          color: #d95087;
-          border-bottom: 1px solid rgb(209 203 203);
-    
-      }
-    
-      .widgetLgName3{
-        width: 120%;
-        margin-left: -16px
-      }
-
-      @media screen and (max-width: 968px) {
-        .widgetLg3{
-          width: 128%;
-          font-size:10px;
-          display: flex;
-          flex-direction:column;
-          position: relative;
-          left: 40%;
-          margin-bottom: 0px;
-        }
-      }
+    width: 108%;
+  }
+  .widgetLgName3 {
+    font-size: 13px;
+  }
+}
