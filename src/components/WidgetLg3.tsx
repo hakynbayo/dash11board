@@ -23,10 +23,8 @@ function WidgetLg3(): JSX.Element {
       method: "GET",
     })
     .then((response) => response.json())
-    .then((response) => {
-      manager.decrypt(response) // impure decryption
-      console.log(response) // something intelligible
-    });
+    .then((data) => setData(data))
+    .catch((error) => console.log(error));
   }, []);
 
 
